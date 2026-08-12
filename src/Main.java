@@ -7,7 +7,7 @@ void main() throws IOException {
     System.out.println("rm <id> - removes a task by id");
     System.out.println("fid <id> - find by id");
     System.out.println("fname <id> - find by name");
-    System.out.println("ch <id> <name> - nchage name by id");
+    System.out.println("ch <id> <name> - nchage name by id   111   ");
     System.out.println("showAll - find by name      ");
 
     TaskManager tm = new ArrayListTaskManager();
